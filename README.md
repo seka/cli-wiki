@@ -1,6 +1,4 @@
-# wiki
-
-
+# cli-wiki
 
 ## Description
 
