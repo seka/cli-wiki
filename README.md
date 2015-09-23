@@ -2,19 +2,27 @@
 
 ## Description
 
+検索ワードにヒットする文字列をwikipediaから取得し
+
+概要を表示するターミナルコマンド.
+
 ## Usage
+
+```
+cli-wiki abst keyword
+```
 
 ## Install
 
 To install, use `go get`:
 
 ```bash
-$ go get -d github.com/sekaryo_shin/wiki
+$ go get -d github.com/seka/cli-wiki
 ```
 
 ## Contribution
 
-1. Fork ([https://github.com/sekaryo_shin/wiki/fork](https://github.com/sekaryo_shin/wiki/fork))
+1. Fork ([https://github.com/seka/wiki/fork](https://github.com/seka/wiki/fork))
 1. Create a feature branch
 1. Commit your changes
 1. Rebase your local changes against the master branch
@@ -24,4 +32,4 @@ $ go get -d github.com/sekaryo_shin/wiki
 
 ## Author
 
-[sekaryo_shin](https://github.com/sekaryo_shin)
+[seka](https://github.com/seka)
